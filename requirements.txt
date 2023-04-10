@@ -1,0 +1,5 @@
+requests~=2.28.2
+selenium~=4.8.2
+awscli
+Flask~=2.2.3
+names~=0.3.0
